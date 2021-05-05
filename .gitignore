@@ -86,3 +86,8 @@ crashlytics-build.properties
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+
+# SketchUp backup files #
+*.skb
+인입B1_github~.skp
